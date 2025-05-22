@@ -1,0 +1,15 @@
+/* Center content and add top spacing */
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin-top: 100px;
+}
+
+/* Style the link */
+a {
+  display: inline-block;
+  margin-top: 20px;
+  text-decoration: none;
+  color: blue;
+  font-size: 18px;
+}
